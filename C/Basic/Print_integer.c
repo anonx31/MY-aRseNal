@@ -8,4 +8,5 @@ int main() {
 	scanf("%d",&n);
 	//will print integer
 	printf("You entered %d",n);
+	return 0;
 }
