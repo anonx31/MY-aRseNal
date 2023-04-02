@@ -8,4 +8,5 @@ int main() {
 	scanf("%s",&name);
 	//will print name
 	printf("Your name is %s",name);
+	return 0;
 }
