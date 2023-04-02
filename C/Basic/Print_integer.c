@@ -1,4 +1,4 @@
-/*program to print your own name in C by scanf function*/
+/*program to print integer in C by scanf function*/
 #include<stdio.h>
 int main() {
 	int n;
